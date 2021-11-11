@@ -1,3 +1,9 @@
+##
+## Todo
+##  Make boxes sizes dynamic based on total coverage
+##  change the centre point of the boxes based on the content they cover
+##  stuff
+
 from PIL import Image, ImageDraw
 import time
 
